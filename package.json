@@ -1,0 +1,15 @@
+{
+  "name": "element-w",
+  "version": "1.1.1",
+  "description": "Secondary packaging",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wgt",
+  "license": "ISC",
+  "dependencies": {
+    "element-ui": "^2.13.2",
+    "v-viewer": "^1.5.1"
+  }
+}
